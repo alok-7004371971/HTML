@@ -1,0 +1,30 @@
+h1{
+    background-color: skyblue;
+    text-align: center;
+    color: blue;
+}
+#box{
+     background-color: greenyellow;
+     border: 2px solid gray;
+     overflow: auto;
+}
+div ul{
+    float: right;  
+}
+div ul li a{
+   float: right;
+   padding: 5px; 
+   margin: 10px; 
+   border-radius: 10px;
+   background-color: rebeccapurple;  
+   color: white;
+   list-style-type: none;
+   border: 2px solid bisque;
+}
+a{
+    float: right;
+    text-decoration: none;
+}
+li:hover{
+    background-color: royalblue;
+}
