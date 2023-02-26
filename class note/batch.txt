@@ -1,0 +1,31 @@
+ht  
+ <p></p>
+    <h1></h1>
+    <a href=""></a>
+    <img src="" alt="">
+    <target></target>// open link in new tag
+    <link rel="stylesheet" href="style.css">
+    <div></div>
+    <ul>
+        <li></li>
+    </ul>
+    <ul>
+        <li></li>
+    </ul>
+    <br>
+    //css part
+    margin:
+    background-color
+    color:
+   ===================================
+    1. height:
+    2. width:
+    3. border:2px solid black;
+    4. text-decaration: none
+       text-aline: center
+    5. border-radius: 30px
+    6. transition:10s;
+    7. a.hover
+    8. float:right/left
+    9. overflow: auto;
+    10.

@@ -1,0 +1,27 @@
+div ul li{
+    background-color: gold;
+    width: 200px;
+    border: 2px solid white;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    float: left;
+    border-radius: 30px;
+}
+div ul {
+    list-style-type: none;
+}
+div ul li:hover{
+    background-color: aqua;
+}
+
+
+div ul li  ul li{
+    display: none;
+}
+div ul li:hover ul li{
+    display: block;
+}
+div ul li a{
+    text-decoration: none;
+}
